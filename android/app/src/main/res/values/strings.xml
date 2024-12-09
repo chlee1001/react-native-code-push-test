@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CodePushTestProject</string>
+    <string moduleConfig="true" name="CodePushServerUrl">https://code-push.url</string>
+</resources>
